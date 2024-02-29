@@ -28,9 +28,6 @@ To install the Sunbeam Infotech Institute EMIS Android App, follow these steps:!
     Clone Repository: Clone this repository to your local machine using:
 
     bash
-
-git clone https://github.com/your-username/sunbeam-infotech-emis-android.git
-
 Open in Android Studio: Open the project in Android Studio.
 
 Build and Run: Build the project and run it on an Android device or emulator.
